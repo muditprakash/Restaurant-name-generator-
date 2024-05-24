@@ -1,1 +1,1 @@
-# Restaurant-name-generator-
+# Restaurant-name-generator
