@@ -10,11 +10,11 @@ We are using GoogleGenerativeAI's ```text-bison-001 model``` for this project an
 
 # Running it locally
 
-clone the repo first 
+Clone the repo first 
 ```
 https://github.com/muditprakash/Restaurant-name-generator-.git
 ```
-navigate to `secret_key.py` and put your own api key there. You can read about how to generate your aoi key here :
+Navigate to `secret_key.py` and put your own api key there. You can read about how to generate your aoi key here :
 
 ```
 https://ai.google.dev/palm_docs/setup
