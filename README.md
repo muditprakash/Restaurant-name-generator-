@@ -1,4 +1,4 @@
-# Restaurant-name-generator
+# Savory
 
 Thinking about starting a new restaurant? Choosing a catchy name and a perfect menu can be a very tricky and tiresome task. This application, made with GoogleGenerativeAI, is here to assist you to do this task effectively.
 
