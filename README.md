@@ -12,7 +12,7 @@ We are using GoogleGenerativeAI's ```text-bison-001 model``` for this project an
 
 Clone the repo first 
 ```
-https://github.com/muditprakash/Restaurant-name-generator-.git
+git clone https://github.com/muditprakash/Savory.git
 ```
 Navigate to `secret_key.py` and put your own api key there. You can read about how to generate your aoi key here :
 
