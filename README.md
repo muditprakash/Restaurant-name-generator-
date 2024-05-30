@@ -27,4 +27,8 @@ And lastly
 ```
 streamlit run main.py
 ```
+# Demo
+
+https://github.com/muditprakash/Savory/assets/75181670/f623367a-3767-43da-ad06-afe8cebe806d
+
 
